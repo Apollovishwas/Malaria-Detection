@@ -1,6 +1,6 @@
-# flask/gunicorn based Heroku web app for malaria detection
+# malaria detection using CNN
 
-[![](https://img.shields.io/badge/python-2.7%2C%203.5%2B-green.svg)]()
+
 
 
 
